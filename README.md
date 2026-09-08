@@ -5,14 +5,37 @@ know, believe, observe, remember, and infer about a world.
 
 ## Why?
 
-An agent can only reason from the information available to it.
+What can an observer know about a world
+when the observer is part of that world?
 
-What happens when multiple agents observe different parts
-of the same world?
-
-What can an agent know about what another agent knows?
-
-Can two different worlds be indistinguishable to an observer?
-
-Epistemic World is an attempt to make these questions
+Epistemic World makes these questions
 computationally experimentable.
+
+## Status
+
+Early research / experimental.
+
+## Goals
+
+- Model worlds and agents
+- Model limited observation
+- Represent knowledge and belief
+- Explore indistinguishable worlds
+- Experiment with multi-agent knowledge
+
+## Example
+
+...
+
+## Roadmap
+
+1. World & Agent
+2. Observation
+3. Knowledge
+4. Possible Worlds
+5. Dynamic Epistemic Logic
+6. Multi-Agent Reasoning
+
+## License
+
+MIT
